@@ -1,0 +1,7 @@
+#Wed May 03 23:13:05 IST 2017
+base.0=/Users/admin/Desktop/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_438dd86ecec8f5291ce8dc380822d5d580736bb6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/admin/Desktop/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_306d43eec2eec626a2b404ca65c065cb9b6f0e86/classes.dex
+base.1=/Users/admin/Desktop/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_306d43eec2eec626a2b404ca65c065cb9b6f0e86
+file.0=/Users/admin/Desktop/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_438dd86ecec8f5291ce8dc380822d5d580736bb6/classes.dex

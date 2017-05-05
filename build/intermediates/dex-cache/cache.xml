@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/c2ea4a27ee2f7037e6520b213f87102381aa100b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/admin/Desktop/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6117bd2199d11f299f2c178603f2b48385a7c2d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/1bbaff71fb5a01aa66a989b247c1c5bdb7671c1c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/admin/Desktop/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55cb0f759e36c2e38039b789bab159e088d4482b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Desktop/Weather/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/admin/Desktop/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_438dd86ecec8f5291ce8dc380822d5d580736bb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/ca04d9ee77751c76f23dddcb02fea4a03acabc70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/admin/Desktop/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ba1bc7d8586189f798c341b98e1ef15d5e7834b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/b2dee4b951c82af532bee0d6825e49af0f8c140c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/admin/Desktop/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fde5106ba75191e82bd5a1aa7fa3e50eec70249a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Desktop/Weather/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbecde1c17cbaa10c52ecffa991534de7b5ba897">
+        <dex dex="/Users/admin/Desktop/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_306d43eec2eec626a2b404ca65c065cb9b6f0e86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/admin/Desktop/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_f37e95579d4a3f3552050a9363750900bf28d866/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/f7c9c7f6d91dc30a1d7fcebdbab5dd8f3ece6c88/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/admin/Desktop/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b07f854ec0673b3526b2f59ea309ded0ab8e6e2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/dcf02192c3d581ddd74c8557977abdbe7f765f81/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/admin/Desktop/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cfe0ff4fb782c2f76d9d86810dc89685c191babe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/f5ab87cc34f7f2a43eccf70281cf4f426155beb6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/admin/Desktop/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b3b1937be379435643c810a5e6db47859329949/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/73651e04ab3f678fa71e054fa874d0cd3209fb21/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="435729dc831cd314d8f037172b279b7157941893">
+        <dex dex="/Users/admin/Desktop/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_514b2e24bc4f9a6a7ac18102a1d5a7a46c030d88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/b45471230be8a68ad1abd07fc6c9870ddc0ab93e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/admin/Desktop/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_111deead3fdd544a8e88b7077db4367779631ae0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/721a3668a96140485b197dd8f269e6091d469540/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/admin/Desktop/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67be8a7f6956e426b7064cc651ffd8f66f9705f6/classes.dex" />
+    </item>
+
+</items>
